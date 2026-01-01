@@ -1,0 +1,22 @@
+{
+    "full_name": "Kshitij Chaudhary",
+    "name": "KC",
+    "current_role": "Staff Software Engineer",
+    "location": "Hyderabad, India",
+    "email": "kshitij.chaudhary.test@gmail.com",
+    "linkedin": "linkedin.com/in/kshitij_chaudhary",
+    "specialties": [
+      "AI",
+      "Generative AI",
+      "LLM",
+      "LLMOps"
+    ],
+    "years_experience": 15,
+    "education": [
+      {
+        "degree": "B.Tech",
+        "institution": "VTU Karntaka",
+        "year": "2009"
+      }
+    ]
+  }

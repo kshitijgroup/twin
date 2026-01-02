@@ -12,7 +12,7 @@ Today, we'll start by building a local version that showcases a fundamental chal
 - **Building a chat interface** with React and Tailwind CSS
 - **Creating a FastAPI backend** for AI conversations
 - **Understanding stateless AI** and why memory matters
-- **Implementing file-based memory** for conversation persistence
+- **Implementing file-based memory** for conversation persistence.
 
 ## Understanding App Router vs Pages Router
 

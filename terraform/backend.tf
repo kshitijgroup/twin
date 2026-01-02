@@ -1,6 +1,8 @@
 terraform {
   backend "s3" {
-    # These values will be set by deployment scripts
-    # For local development,, they can be passed via -backend-config
+    bucket         = "twin-terraform-state-263791955974"
+    key            = "env/dev/terraform.tfstate"
+    region         = "eu-north-1"
+    encrypt        = true
   }
 }
